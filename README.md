@@ -28,11 +28,11 @@
 ## 安裝
 ### 取得專案
 ```bash
-git clone 
+git clone https://github.com/TamyTsai/chakra-game-using-Vue.js.git
 ```
 ### 移動到專案內
 ```bash
-cd 
+cd chakra-game-using-Vue.js
 ```
 
 ## 資料夾及檔案說明

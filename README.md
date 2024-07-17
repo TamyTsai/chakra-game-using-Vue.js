@@ -1,5 +1,5 @@
 ## 簡介
-- [Demo Link]()
+- [Demo Link](https://tamytsai.github.io/chakra-game-using-Vue.js/)
 - 本專案為一個透過快速點擊按鈕以施放絕招的遊戲，改寫自自己的專案[chakra-game](https://github.com/TamyTsai/chakra-game)，以Vue.js重構
 - 以HTML、CSS及JavaScript撰寫，為一頁式靜態網頁
 - CSS中盡量將元素大小以相對單位設定，以達RWD效果

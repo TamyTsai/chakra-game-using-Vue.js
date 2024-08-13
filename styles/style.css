@@ -13,11 +13,6 @@ body .content {
   border: dashed 5px #0b080842;
 }
 
-/* body .content .button {
-  display: flex;
-  flex-wrap: nowrap;
-} */
-
 #hitButton {
   display: block;
   width: 50%;

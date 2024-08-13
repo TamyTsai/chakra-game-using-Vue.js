@@ -6,9 +6,9 @@
 ## 關於查克拉凝聚遊戲
 - 本遊戲透過快速點擊按鈕來施放絕招，來挑戰自己的手速吧！
 
-## 專案目的
+<!-- ## 專案目的
 - 改寫自自己的專案[chakra-game](https://github.com/TamyTsai/chakra-game)
-- 透過以Vue.js重構前揭專案，練習Vue.js框架之運用
+- 透過以Vue.js重構前揭專案，練習Vue.js框架之運用 -->
 
 
 <!-- ## 功能
